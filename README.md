@@ -3,7 +3,7 @@ If the `share` functionality doesn't work on your kindle, then any highlight you
 
 To use:
 
-- collect all text from emails (simpel copy all the whole page will do)
+- collect all text from emails (simple copy of the whole page will do)
 - compile into a single text file
 - navigate to directory of that text file in command line
 - call `python3 kindle_parser.py *name of text file* > *name of destination file*`
